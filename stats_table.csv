@@ -1,0 +1,16 @@
+	metric_name	all_train	all_val	all_test
+0	size	5375	623	718
+1	avg_nb_tokens	27.685395348837208	30.32744783306581	29.43732590529248
+2	max_nb_tokens	321	221	256
+3	nb_token_quantile95	68.0	72.0	76.0
+4	class_distrib	[0.03, 0.14, 0.05, 0.78]	[0.03, 0.15, 0.06, 0.77]	[0.02, 0.14, 0.05, 0.79]
+5	avg_nb_ents	3.2584186046511627	3.321027287319422	3.3885793871866294
+6	max_nb_ents	29	15	22
+7	avg_nb_token_ents	2.1221308667351835	2.038182696955051	2.207973695026716
+8	max_nb_token_ents	15	9	12
+9	total_nb_ents	17514	2069	2433
+10	percent_ents_in_text	14.1	15.42	13.4
+11	total_nb_unique_ents	4395	906	1104
+12	nb_duplicated_ent	37	6	2
+13	samples_with_duplicate	32	6	2
+14	entropy	(-51.31, 0.07)	(-2.72, 0.06)	(-5.16, 0.05)
